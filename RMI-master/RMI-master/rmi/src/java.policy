@@ -1,0 +1,4 @@
+{ 
+permission java.net.SocketPermission "localhost:1234", "listen";
+ permission java.security.AllPermission; 
+};
